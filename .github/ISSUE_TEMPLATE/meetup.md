@@ -1,24 +1,26 @@
 ---
 name: Meetup
 about: Schedule & coordinate a meetup
-title: ''
+title: '[Meetup] <title>'
 labels: meetup
 assignees: ''
 
 ---
 
-# Meetup title
+## Meetup title
 
-**When**: <When it will take place>
-**Where**: <Where it will take place>
+**When**:  [when it will take place]
 
-## Topics
+**Where**: [where it will take place]
 
-### Topic title
-**Speaker**: <name of the speaker>
-**Decscription**: <topic description>
+### Topics
 
-## Checklist
+#### Topic title
+**Speaker**: [name of the speaker]
+  
+**Decscription**: [topic description]
+
+### Checklist
 - [ ] Todo 1
 - [ ] Todo 2
 - [ ] Todo 3
